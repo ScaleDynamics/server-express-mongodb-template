@@ -1,6 +1,6 @@
 # Server ready to use template for ScaleDynamics platform
 
-This template is configured for the ScaleDynamics web platform. It is ready to use to build your own server/API. All is pre-configured: we provide one command to develop with live reload and one to deploy to make it live on a url.
+This template is configured for the ScaleDynamics platform. It is ready to use to build your own server/API. All is pre-configured: we provide one command to develop with live reload and one to deploy to make it live on a url.
 
 Note that you need a ScaleDynamics account for deployment (create a FREE community account [here](https://console.scaledynamics.com/auth/signup/)).
 
@@ -63,5 +63,10 @@ For more specific project, you can add a [configuration file](https://docs.scale
 
 If you need more information, you can refer to the documentation:
   - [Express.js](https://expressjs.com/en/guide/routing.html)
-  - [ScaleDynamics Platform](https://docs.scaledynamics.com/docs/frameworks)
+  - [ScaleDynamics Platform](https://docs.scaledynamics.com/)
   - [MongoDB](https://docs.mongodb.com/guides/)
+
+## License
+
+Copyright 2021 ScaleDynamics SAS. All rights reserved.
+Licensed under the MIT license.
